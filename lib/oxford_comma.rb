@@ -1,9 +1,9 @@
 def oxford_comma(array)
   case array.length 
   when 1 
-    array
+    "#{array[0]}"
   when 2 
-    array.split(" and ")
+    "array.split(" and ")"
   when 3 
     string1 = array[1].join(", ")
     string.push(string1)
