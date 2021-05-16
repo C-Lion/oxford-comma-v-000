@@ -14,8 +14,10 @@ def oxford_comma(array)
     string.push string3
     
   else
+    length = array.size
+    while l
     final3 = 
-    - = array[-3].join(", ")
+    final3- = array[-3].join(", ")
     string.push(string1)
     string2  = array[-2].join(", ")
     string.push(string2)
