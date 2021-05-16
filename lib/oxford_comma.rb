@@ -3,7 +3,7 @@ def oxford_comma(array)
   when 1 
     "#{array[0]}"
   when 2 
-    "array.split(" and ")"
+    "array[0..1].join(" and ")"array[0..1].join(" and ")
   when 3 
     string1 = array[1].join(", ")
     string.push(string1)
