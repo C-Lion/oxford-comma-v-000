@@ -15,7 +15,8 @@ def oxford_comma(array)
     
   else
     length = array.size
-    while l
+    while length > 3
+    string
     final3 = 
     final3- = array[-3].join(", ")
     string.push(string1)
